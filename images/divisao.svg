@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2732 131">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Luana);
+      }
+
+      .cls-2 {
+        stroke: #b38b59;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-miterlimit: 10;
+        stroke-width: 14px;
+      }
+
+      .cls-4 {
+        stroke: #113e21;
+      }
+    </style>
+    <pattern id="Luana" x="0" y="0" width="289.66" height="265.16" patternTransform="translate(-360 3451)" patternUnits="userSpaceOnUse" viewBox="0 0 289.66 265.16">
+      <g>
+        <rect class="cls-3" width="289.66" height="265.16"/>
+        <path class="cls-2" d="m65.2,17.73s37-13,48,29-67,20-10-10,44,41,44,41"/>
+        <path class="cls-4" d="m256,3.66s22.83,37.27-44.3,32.21-16.62,47.54-16.62,47.54"/>
+        <path class="cls-4" d="m177.2,174.73s61,42,66-33"/>
+        <path class="cls-4" d="m58.2,99.73s13,28,55,7"/>
+        <path class="cls-4" d="m211.4,114.85s-24.22-14.58-75.44,31.09"/>
+        <path class="cls-2" d="m75.2,248.73s-46-22.85-7-52.43c39-29.57,0-39.83,0-39.83"/>
+        <path class="cls-2" d="m193.2,210.6s-2,42.13,44,38.13"/>
+        <path class="cls-2" d="m288.45,105.82s-65.04,11.37-61.73-45.79"/>
+        <path class="cls-2" d="m46.84,141.41s-47.64-.94-17.64,61.19"/>
+        <path class="cls-4" d="m119.26,172.66s-29.06,47.07,15.94,55.07,26-30.07,11-27.53c-15,2.53-47.45,18.47-5.72,60"/>
+        <path class="cls-4" d="m31.41,22.79s14.5,17.96-25.43,83.87"/>
+      </g>
+    </pattern>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <rect class="cls-1" width="2732" height="131"/>
+  </g>
+</svg>
